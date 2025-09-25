@@ -1,7 +1,7 @@
 # Ethereum-Token
 Ethereum Token (ETH)
-{
-  "name": "Ethereum Token",
+## Token Details
+  - **name:** "Ethereum Token",
   "symbol": "ETH",
   "type": "BEP20",
   "decimals": 18,
