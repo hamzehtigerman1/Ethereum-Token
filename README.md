@@ -22,7 +22,6 @@ Ethereum Token (ETH)
  
     - **reddit:**    https://www.reddit.com/r/ethereum
 
-    - ** logo:** https://raw.githubusercontent.com/hamzehtigerman1/Ethereum-Token/main/logo.png
-
+    - ** logo:** https://raw.githubusercontent.com/hamzehtigerman1/Ethereum-Token/main/ether_32.png
     
 
