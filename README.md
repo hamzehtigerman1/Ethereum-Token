@@ -1,8 +1,8 @@
 # Ethereum-Token
 Ethereum Token (ETH)
 ## Token Details
-  - **name:** "Ethereum Token",
-  "symbol": "ETH",
+  - **name:** Ethereum Token
+  - **symbol:** ETH
   "type": "BEP20",
   "decimals": 18,
   "description": "Ethereum Token (ETH) is a BEP20 token deployed on Binance Smart Chain.",
