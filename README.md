@@ -17,10 +17,10 @@ Ethereum Token (ETH)
   - **id:** 0xb522c2A4B56eCE44a508cB611db179B8d4Bb96cf
   
    
-      "name": "twitter",
-      "url": "https://x.com/ethereum"
+     - **twitter :**  https://x.com/ethereum
+     
  
-      "name": "reddit",
-      "url": "https://www.reddit.com/r/ethereum/"
+    - **reddit:**    https://www.reddit.com/r/ethereum
+
     
 
