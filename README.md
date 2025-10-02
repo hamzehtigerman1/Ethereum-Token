@@ -22,6 +22,6 @@ Ethereum Token (ETH)
  
     - **reddit:**    https://www.reddit.com/r/ethereum
 
-    - ** logo:** https://raw.githubusercontent.com/hamzehtigerman1/Ethereum-Token/main/ether_32.png
+    - ** logo:** https://cryptotalk-tokens-fiz3rywh2a-an.a.run.app/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png
     
 
